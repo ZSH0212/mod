@@ -8,7 +8,7 @@ name: "example-java-mod"
 author: "ZSH0212"
 
 #the fully qualified main class of the mod
-main: "ExampleJavaMod"
+main: "src.ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
 description: "A Mindustry Java mod template."
